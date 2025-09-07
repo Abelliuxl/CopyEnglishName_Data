@@ -1,0 +1,42 @@
+## Interface: 110105
+## Title: CopyEnglishName Data
+## Notes: Data tables for CopyEnglishName addon.
+## Author: Tindall
+## Version: 2.0
+## LoadOnDemand: 1
+## Dependencies: CopyEnglishName
+## IconTexture: Interface\AddOns\CopyEnglishName_Data\logo.tga 
+
+
+lua_chunks/item_names_1.lua
+lua_chunks/item_names_2.lua
+lua_chunks/item_names_3.lua
+lua_chunks/item_names_4.lua
+lua_chunks/item_names_5.lua
+lua_chunks/item_names_6.lua
+lua_chunks/item_names_7.lua
+lua_chunks/item_names_8.lua
+lua_chunks/item_names_9.lua
+lua_chunks/item_names_10.lua
+lua_chunks/item_names_11.lua
+lua_chunks/item_names_12.lua
+lua_chunks/item_names_13.lua
+lua_chunks/item_names_14.lua
+lua_chunks/item_names_15.lua
+lua_chunks/item_names_16.lua
+lua_chunks/item_names_17.lua
+lua_chunks/item_names_18.lua
+lua_chunks/item_names_19.lua
+lua_chunks/item_names_20.lua
+lua_chunks/item_names_21.lua
+lua_chunks/item_names_22.lua
+lua_chunks/item_names_23.lua
+lua_chunks/item_names_24.lua
+lua_chunks/item_names_25.lua
+lua_chunks/item_names_26.lua
+lua_chunks/item_names_27.lua
+lua_chunks/item_names_28.lua
+lua_chunks/item_names_29.lua
+lua_chunks/item_names_30.lua
+lua_chunks/item_names_31.lua
+lua_chunks/item_names_32.lua
