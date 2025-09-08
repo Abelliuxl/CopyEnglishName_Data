@@ -1,5 +1,4 @@
 ItemNames_24 = {
-    ["170002"] = {en = "Split Differential", zh = "分叉的差速齿轮"},
     ["170003"] = {en = "Grinding Gearbox", zh = "刺耳的变速箱"},
     ["170004"] = {en = "Cracked Turbo", zh = "裂口的涡轮"},
     ["170005"] = {en = "Fractured Pearl", zh = "破碎的珍珠"},
@@ -4999,4 +4998,5 @@ ItemNames_24 = {
     ["177613"] = {en = "Felsoul Wristwraps", zh = "邪魂裹腕"},
     ["177615"] = {en = "Oathsworn Sabatons", zh = "誓约者战靴"},
     ["177616"] = {en = "Oathsworn Gauntlets", zh = "誓约者手甲"},
+    ["177618"] = {en = "Oathsworn Legplates", zh = "誓约者腿甲"},
 }

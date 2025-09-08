@@ -1,5 +1,4 @@
 ItemNames_23 = {
-    ["163234"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
     ["163235"] = {en = "Felbound Gardbrace", zh = "邪缚护肩"},
     ["163236"] = {en = "Felbound Tunic", zh = "邪缚外套"},
     ["163237"] = {en = "Felbound Armguards", zh = "邪缚护臂"},
@@ -4999,4 +4998,5 @@ ItemNames_23 = {
     ["169999"] = {en = "Crumbling Barrier", zh = "破碎的护障"},
     ["170000"] = {en = "Battered Bastion", zh = "破碎的巨盾"},
     ["170001"] = {en = "Seized Engine", zh = "查封的引擎"},
+    ["170002"] = {en = "Split Differential", zh = "分叉的差速齿轮"},
 }

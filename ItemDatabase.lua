@@ -7,7 +7,7 @@ local function getItemName(id)
     if nameCache[id] then
         return nameCache[id]
     end
-    for i = 1, 32 do
+    for i = 1, 33 do
         local chunkTable = _G["ItemNames_" .. i]
         if chunkTable and chunkTable[id] then
             local name
@@ -35,7 +35,7 @@ local function getItemIdByChineseName(chineseName)
         local id = chineseNameCache[chineseName]
         return id, getItemName(id)
     end
-    for i = 1, 32 do
+    for i = 1, 33 do
         local chunkTable = _G["ItemNames_" .. i]
         if chunkTable then
             for id, data in pairs(chunkTable) do
@@ -109,7 +109,7 @@ end
 -- 调试命令：检查表是否加载
 SLASH_DEBUGTABLES1 = "/debugtables"
 SlashCmdList["DEBUGTABLES"] = function()
-    for i = 1, 32 do
+    for i = 1, 33 do
         local tableName = "ItemNames_" .. i
         print("表 " .. tableName .. ": " .. (_G[tableName] and "已加载" or "未加载"))
     end

@@ -1,4 +1,5 @@
 ItemNames_5 = {
+    ["30465"] = {en = "Lifeblood Leggings", zh = "生命之血护腿"},
     ["30466"] = {en = "Crocolisk Tooth", zh = "鳄鱼的牙齿"},
     ["30467"] = {en = "Inedible Crocolisk Tail", zh = "鳄鱼的尾巴"},
     ["30468"] = {en = "T'chali's Hookah", zh = "塔卡里的水烟袋"},
@@ -4998,5 +4999,4 @@ ItemNames_5 = {
     ["36333"] = {en = "Grizzlemaw Armor", zh = "灰喉胸甲"},
     ["36334"] = {en = "Grizzlemaw Gauntlets", zh = "灰喉护手"},
     ["36335"] = {en = "Grizzlemaw Helm", zh = "灰喉头盔"},
-    ["36336"] = {en = "Grizzlemaw Legplates", zh = "灰喉腿甲"},
 }

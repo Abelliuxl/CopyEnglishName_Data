@@ -1,4 +1,5 @@
 ItemNames_6 = {
+    ["36336"] = {en = "Grizzlemaw Legplates", zh = "灰喉腿甲"},
     ["36337"] = {en = "Grizzlemaw Epaulets", zh = "灰喉护肩"},
     ["36338"] = {en = "Grizzlemaw Vambraces", zh = "灰喉护臂"},
     ["36339"] = {en = "Bloodmar Girdle", zh = "血伤束带"},
@@ -4998,5 +4999,4 @@ ItemNames_6 = {
     ["42180"] = {en = "Pattern: Ebonweave", zh = "图样：乌纹布"},
     ["42181"] = {en = "Pattern: Moonshroud", zh = "图样：月影布"},
     ["42182"] = {en = "Pattern: Spellweave", zh = "图样：法纹布"},
-    ["42183"] = {en = "Pattern: Abyssal Bag", zh = "图样：深渊背包"},
 }

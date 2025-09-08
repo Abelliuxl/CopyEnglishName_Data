@@ -4341,6 +4341,7 @@ ItemNames_1 = {
     ["6890"] = {en = "Smoked Bear Meat", zh = "熏熊肉"},
     ["6891"] = {en = "Recipe: Herb Baked Egg", zh = "食谱：草药烘蛋"},
     ["6892"] = {en = "Recipe: Smoked Bear Meat", zh = "食谱：熏熊肉"},
+    ["6893"] = {en = "Workshop Key", zh = "车间钥匙"},
     ["6894"] = {en = "Whirlwind Heart", zh = "旋风之心"},
     ["6895"] = {en = "Jordan's Smithing Hammer", zh = "乔丹的铁锤"},
     ["6898"] = {en = "Orb of Soran'ruk", zh = "索兰鲁克宝珠"},
@@ -4998,5 +4999,4 @@ ItemNames_1 = {
     ["8106"] = {en = "Hibernal Armor", zh = "寒冬护甲"},
     ["8107"] = {en = "Hibernal Boots", zh = "寒冬长靴"},
     ["8108"] = {en = "Hibernal Bracers", zh = "寒冬护腕"},
-    ["8109"] = {en = "Hibernal Cloak", zh = "寒冬披风"},
 }

@@ -1,5 +1,4 @@
 ItemNames_22 = {
-    ["156258"] = {en = "Armbands of Bedlam", zh = "疯乱臂甲"},
     ["156260"] = {en = "Chestplate of Vicious Potency", zh = "堕落力量胸铠"},
     ["156261"] = {en = "Treacherous Shoulderpads", zh = "叛逆肩垫"},
     ["156262"] = {en = "Gloves of Taut Grip", zh = "钳制手套"},
@@ -4999,4 +4998,5 @@ ItemNames_22 = {
     ["163231"] = {en = "Felbound Footwraps", zh = "邪缚裹足"},
     ["163232"] = {en = "Felbound Handwraps", zh = "邪缚裹手"},
     ["163233"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
+    ["163234"] = {en = "Felbound Shroud", zh = "邪缚裹布"},
 }

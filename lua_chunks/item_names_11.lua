@@ -1,4 +1,5 @@
 ItemNames_11 = {
+    ["73128"] = {en = "Wildsoul Band of Wisdom", zh = "野性灵魂智慧指环"},
     ["73129"] = {en = "Wildsoul Idol of Wisdom", zh = "野性灵魂智慧雕像"},
     ["73130"] = {en = "Wildsoul Necklace", zh = "野性灵魂项链"},
     ["73131"] = {en = "Stormbinder Choker", zh = "驭雷颈链"},
@@ -4998,5 +4999,4 @@ ItemNames_11 = {
     ["84034"] = {en = "Wind-Reaver Waistguard", zh = "掠风腰链"},
     ["84035"] = {en = "Bladesworn Girdle", zh = "刃誓腰带"},
     ["84036"] = {en = "Coldbite Girdle", zh = "寒噬腰带"},
-    ["84037"] = {en = "Motherseed Gloves", zh = "母种手套"},
 }

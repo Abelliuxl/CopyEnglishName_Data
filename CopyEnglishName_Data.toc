@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110200
 ## Title: CopyEnglishName Data
 ## Notes: Data tables for CopyEnglishName addon.
 ## Author: Tindall
-## Version: 2.0
+## Version: 2.1
 ## LoadOnDemand: 1
 ## Dependencies: CopyEnglishName
 ## IconTexture: Interface\AddOns\CopyEnglishName_Data\logo.tga 
@@ -40,3 +40,4 @@ lua_chunks/item_names_29.lua
 lua_chunks/item_names_30.lua
 lua_chunks/item_names_31.lua
 lua_chunks/item_names_32.lua
+lua_chunks/item_names_33.lua

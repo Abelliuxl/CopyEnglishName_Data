@@ -1,5 +1,4 @@
 ItemNames_25 = {
-    ["177618"] = {en = "Oathsworn Legplates", zh = "誓约者腿甲"},
     ["177620"] = {en = "Oathsworn Girdle", zh = "誓约者束腰"},
     ["177621"] = {en = "Oathsworn Vambraces", zh = "誓约者臂甲"},
     ["177623"] = {en = "Oathsworn Greaves", zh = "誓约者护胫"},
@@ -4999,4 +4998,5 @@ ItemNames_25 = {
     ["184369"] = {en = "Brutally Sundered Mallet", zh = "被暴力破坏的锤子"},
     ["184370"] = {en = "Erratic Sparkshield", zh = "游离的火花护盾"},
     ["184371"] = {en = "Vivacity of Collaboration", zh = "协作之跃"},
+    ["184372"] = {en = "Charred Dreadplate", zh = "烧焦的恐惧板甲"},
 }

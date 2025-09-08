@@ -1,5 +1,4 @@
 ItemNames_20 = {
-    ["144025"] = {en = "Breezeswept Hood", zh = "扫风兜帽"},
     ["144026"] = {en = "Helm of Rising Flame", zh = "腾火头盔"},
     ["144027"] = {en = "Crown of Holy Flame", zh = "圣焰之冠"},
     ["144028"] = {en = "Whitemane's Embroidered Chapeau", zh = "怀特迈恩的刺绣礼帽"},
@@ -4999,4 +4998,5 @@ ItemNames_20 = {
     ["149569"] = {en = "Fierce Combatant's Dragonhide Legguards", zh = "暴烈争斗者的龙皮护腿"},
     ["149570"] = {en = "Fierce Combatant's Dragonhide Legguards", zh = "暴烈争斗者的龙皮护腿"},
     ["149571"] = {en = "Fierce Combatant's Dragonhide Spaulders", zh = "暴烈争斗者的龙皮护肩"},
+    ["149572"] = {en = "Fierce Combatant's Dragonhide Spaulders", zh = "暴烈争斗者的龙皮护肩"},
 }

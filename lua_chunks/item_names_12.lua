@@ -1,4 +1,5 @@
 ItemNames_12 = {
+    ["84037"] = {en = "Motherseed Gloves", zh = "母种手套"},
     ["84038"] = {en = "Sapfly Gloves", zh = "树萤手套"},
     ["84039"] = {en = "Withered Wood Gauntlets", zh = "朽木护手"},
     ["84040"] = {en = "Lucidity Gloves", zh = "明澈手套"},
@@ -4998,5 +4999,4 @@ ItemNames_12 = {
     ["91971"] = {en = "Battle Rations", zh = "作战给养"},
     ["92019"] = {en = "The Bilgewater Molotov", zh = "锈水燃烧瓶"},
     ["92035"] = {en = "Adorned Sceptre", zh = "缀饰权杖"},
-    ["92036"] = {en = "Staff of the Monkey King", zh = "猴王节杖"},
 }

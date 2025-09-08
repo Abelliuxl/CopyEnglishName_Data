@@ -1,4 +1,5 @@
 ItemNames_4 = {
+    ["23278"] = {en = "Knight-Lieutenant's Chain Greaves", zh = "骑士中尉的链甲长靴"},
     ["23279"] = {en = "Knight-Lieutenant's Chain Vices", zh = "骑士中尉的链甲手套"},
     ["23280"] = {en = "Knight-Lieutenant's Dragonhide Grips", zh = "骑士中尉的龙皮护手"},
     ["23281"] = {en = "Knight-Lieutenant's Dragonhide Treads", zh = "骑士中尉的龙皮便鞋"},
@@ -4998,5 +4999,4 @@ ItemNames_4 = {
     ["30462"] = {en = "Oronok's Boar Whistle", zh = "欧鲁诺克的野猪哨"},
     ["30463"] = {en = "Lifeblood Belt", zh = "生命之血腰带"},
     ["30464"] = {en = "Lifeblood Bracers", zh = "生命之血护腕"},
-    ["30465"] = {en = "Lifeblood Leggings", zh = "生命之血护腿"},
 }

@@ -1,7 +1,4 @@
 ItemNames_28 = {
-    ["200783"] = {en = "Adorned Ohunan Jess", zh = "带装饰的欧胡纳脚带"},
-    ["200784"] = {en = "Hunting Trophies", zh = "狩猎战利品"},
-    ["200785"] = {en = "Argali Wool Rug", zh = "绒羊毛毯"},
     ["200786"] = {en = "Marbled Broadhoof Brisket", zh = "雪花阔蹄兽胸肉"},
     ["200787"] = {en = "Strong Exotic Spices", zh = "腥味异域香料"},
     ["200788"] = {en = "Mantacorn Horns", zh = "刺魟之角"},
@@ -2190,7 +2187,6 @@ ItemNames_28 = {
     ["204029"] = {en = "Prophetic Twilight Stone", zh = "先知暮光之石"},
     ["204030"] = {en = "Wind Sculpted Stone", zh = "微风雕塑之石"},
     ["204063"] = {en = "Windsor's Journal", zh = "温德索尔的日志"},
-    ["204064"] = {en = "PH 10.1 Raid - Black Dragon Labs - Boss 9 - Sarkareth - Accessory - Trinket - Omni", zh = "PH 10.1 Raid - Black Dragon Labs - Boss 9 - Sarkareth - Accessory - Trinket - Omni"},
     ["204065"] = {en = "Azerite Powder", zh = "艾泽里特粉末"},
     ["204066"] = {en = "Igniter Torch", zh = "点燃火把"},
     ["204067"] = {en = "Glowing Crystal", zh = "闪光的水晶"},
@@ -4007,7 +4003,7 @@ ItemNames_28 = {
     ["206269"] = {en = "Time-Lost Essence", zh = "迷时精华"},
     ["206270"] = {en = "Volcanic Equipment Chest", zh = "火山装备箱"},
     ["206271"] = {en = "Malicia's Hoard", zh = "玛丽希亚的珍藏"},
-    ["206274"] = {en = "Large Charm of Intelligence", zh = "智力的大型护身符"},
+    ["206274"] = {en = "Large Charm of Intelligence", zh = "智力之大型神符"},
     ["206275"] = {en = "Wirt's Haunted Leg", zh = "怀特的闹鬼之腿"},
     ["206276"] = {en = "Wirt's Last Leg", zh = "怀特的最终之腿"},
     ["206277"] = {en = "Vagabond's Sunny Cape", zh = "流浪者的阳光斗篷"},
@@ -4999,4 +4995,8 @@ ItemNames_28 = {
     ["207927"] = {en = "Crown of the Infinite Lord", zh = "永恒领主之冠"},
     ["207928"] = {en = "Leggings of the New Dawn", zh = "新生黎明护腿"},
     ["207936"] = {en = "Hood of Perpetual Conflict", zh = "永恒冲突兜帽"},
+    ["207939"] = {en = "Chronomancer's Stasis Shackles", zh = "时光术师的静滞镣铐"},
+    ["207945"] = {en = "Chrono-Lord's Wingspan", zh = "时空领主的翼展"},
+    ["207946"] = {en = "Reality-Warping Waistband", zh = "现实扭曲腰带"},
+    ["207950"] = {en = "Marbled Oathstone Greatboots", zh = "白皙誓言石重靴"},
 }

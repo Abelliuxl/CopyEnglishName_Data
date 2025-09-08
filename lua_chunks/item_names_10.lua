@@ -1,4 +1,5 @@
 ItemNames_10 = {
+    ["63784"] = {en = "Heartsmoke Legplates", zh = "心雾腿铠"},
     ["63785"] = {en = "Smoking Stride Treads", zh = "疾行之靴"},
     ["63786"] = {en = "Fleshburned Robes", zh = "血肉灼烧长袍"},
     ["63787"] = {en = "Oversized Oblique Ogre Obliterator", zh = "食人魔灭除巨剑"},
@@ -4998,5 +4999,4 @@ ItemNames_10 = {
     ["73125"] = {en = "Shadowstalking Choker", zh = "影行项圈"},
     ["73126"] = {en = "Wildsoul Stone of Wisdom", zh = "野性灵魂智慧之石"},
     ["73127"] = {en = "Wildsoul Ring of Wisdom", zh = "野性灵魂智慧戒指"},
-    ["73128"] = {en = "Wildsoul Band of Wisdom", zh = "野性灵魂智慧指环"},
 }

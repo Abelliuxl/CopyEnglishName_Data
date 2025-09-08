@@ -1,4 +1,5 @@
 ItemNames_9 = {
+    ["55834"] = {en = "Biting Wind", zh = "凛风"},
     ["55835"] = {en = "Hail-Strung Belt", zh = "雹石腰带"},
     ["55836"] = {en = "Loramus' Torso", zh = "洛拉姆斯的躯干"},
     ["55837"] = {en = "Loramus' Legs", zh = "洛拉姆斯的腿"},
@@ -4998,5 +4999,4 @@ ItemNames_9 = {
     ["63781"] = {en = "Nightmare Choker", zh = "梦魇颈饰"},
     ["63782"] = {en = "Weeping Scar Cover", zh = "遮疤罩帽"},
     ["63783"] = {en = "Woundseal Leggings", zh = "愈伤腿甲"},
-    ["63784"] = {en = "Heartsmoke Legplates", zh = "心雾腿铠"},
 }

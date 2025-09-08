@@ -4192,7 +4192,6 @@ ItemNames_16 = {
     ["122281"] = {en = "Parachute Pack", zh = "降落伞包"},
     ["122283"] = {en = "Rukhmar's Sacred Memory", zh = "鲁克玛的神圣回忆"},
     ["122284"] = {en = "WoW Token", zh = "魔兽世界时光徽章"},
-    ["122291"] = {en = "Sanctuary Coins", zh = "圣所金币"},
     ["122292"] = {en = "Grievously Wounded Whelpling", zh = "重伤的雏龙"},
     ["122293"] = {en = "Trans-Dimensional Bird Whistle", zh = "多维鸟哨"},
     ["122294"] = {en = "Yotnar's Right Eye", zh = "尤特纳的右眼"},
@@ -4999,4 +4998,5 @@ ItemNames_16 = {
     ["124285"] = {en = "Die-Cast Ringmail Sabatons", zh = "压铸环甲马靴"},
     ["124286"] = {en = "Surefooted Chain Treads", zh = "稳健环靴"},
     ["124287"] = {en = "Spiked Throatcrusher Boots", zh = "割喉者钉鞋"},
+    ["124288"] = {en = "Unhallowed Voidlink Boots", zh = "虚空邪链长靴"},
 }

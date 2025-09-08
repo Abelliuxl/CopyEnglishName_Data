@@ -1,4 +1,5 @@
 ItemNames_3 = {
+    ["16166"] = {en = "Bean Soup", zh = "豆汤"},
     ["16167"] = {en = "Versicolor Treat", zh = "彩虹糖"},
     ["16168"] = {en = "Heaven Peach", zh = "天堂桃"},
     ["16169"] = {en = "Wild Ricecake", zh = "粗米糕"},
@@ -4998,5 +4999,4 @@ ItemNames_3 = {
     ["23275"] = {en = "Knight-Lieutenant's Lamellar Sabatons", zh = "骑士中尉的板层甲马靴"},
     ["23276"] = {en = "Lieutenant Commander's Lamellar Headguard", zh = "少校的板层甲头盔"},
     ["23277"] = {en = "Lieutenant Commander's Lamellar Shoulders", zh = "少校的板层甲护肩"},
-    ["23278"] = {en = "Knight-Lieutenant's Chain Greaves", zh = "骑士中尉的链甲长靴"},
 }

@@ -1,8 +1,4 @@
 ItemNames_29 = {
-    ["207939"] = {en = "Chronomancer's Stasis Shackles", zh = "时光术师的静滞镣铐"},
-    ["207945"] = {en = "Chrono-Lord's Wingspan", zh = "时空领主的翼展"},
-    ["207946"] = {en = "Reality-Warping Waistband", zh = "现实扭曲腰带"},
-    ["207950"] = {en = "Marbled Oathstone Greatboots", zh = "白皙誓言石重靴"},
     ["207951"] = {en = "Displaced Trooper's Gauntlets", zh = "彷徨步兵的护手"},
     ["207956"] = {en = "Thunderspine Nest", zh = "雷背巢"},
     ["207957"] = {en = "Aquamarine Felfire Bulwark", zh = "青绿石邪火壁垒"},
@@ -4621,7 +4617,7 @@ ItemNames_29 = {
     ["214496"] = {en = "Jade Guardian's Boots", zh = "青玉守护者之靴"},
     ["214497"] = {en = "Jade Guardian's Hauberk", zh = "青玉守护者的半身甲"},
     ["214498"] = {en = "Jade Guardian's Bracers", zh = "青玉守护者的护腕"},
-    ["214504"] = {en = "Emerald Necklace", zh = "翡翠项链"},
+    ["214504"] = {en = "Familiar-Looking Appendage", zh = "让人感觉眼熟的附肢"},
     ["214507"] = {en = "Dawnwatcher's Armbands", zh = "晨芳园卫士的护臂"},
     ["214508"] = {en = "Dawnwatcher's Chestguard", zh = "晨芳园卫士的护胸"},
     ["214509"] = {en = "Dawnwatcher's Sabatons", zh = "晨芳园卫士的战靴"},
@@ -4999,4 +4995,8 @@ ItemNames_29 = {
     ["214886"] = {en = "Sabatons of Cyclopean Dread", zh = "独眼恐惧战靴"},
     ["214887"] = {en = "Bracers of Cyclopean Dread", zh = "独眼恐惧护腕"},
     ["214888"] = {en = "Breastplate of Cyclopean Dread", zh = "独眼恐惧战铠"},
+    ["214889"] = {en = "White Tiger Battleplate", zh = "白虎战甲"},
+    ["214890"] = {en = "White Tiger Vambraces", zh = "白虎臂铠"},
+    ["214891"] = {en = "White Tiger Warboots", zh = "白虎战争之靴"},
+    ["214892"] = {en = "White Tiger Greathelm", zh = "白虎重盔"},
 }

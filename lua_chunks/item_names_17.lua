@@ -1,5 +1,4 @@
 ItemNames_17 = {
-    ["124288"] = {en = "Unhallowed Voidlink Boots", zh = "虚空邪链长靴"},
     ["124289"] = {en = "Hand Loader Gauntlets", zh = "装弹手套"},
     ["124290"] = {en = "Mitts of Eternal Famishment", zh = "无尽饥渴手套"},
     ["124291"] = {en = "Eredar Fel-Chain Gloves", zh = "艾瑞达魔索手套"},
@@ -4999,4 +4998,5 @@ ItemNames_17 = {
     ["129883"] = {en = "Spiked Battleguard Choker", zh = "尖刺卫士项圈"},
     ["129884"] = {en = "Brooch of the Wailing Night", zh = "哀嚎长夜胸针"},
     ["129885"] = {en = "Frozen Tear of Elune", zh = "艾露恩的冰冷之泪"},
+    ["129886"] = {en = "Shard of the Crystal Forest", zh = "水晶森林碎片"},
 }

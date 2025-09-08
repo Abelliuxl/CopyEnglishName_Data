@@ -1,7 +1,4 @@
 ItemNames_27 = {
-    ["191622"] = {en = "Fireplume Talons", zh = "火羽足垫"},
-    ["191623"] = {en = "Unstable Frostfire Belt", zh = "不稳定的霜火腰带"},
-    ["191625"] = {en = "Lavaforge Monolith", zh = "熔铸锤杖"},
     ["191626"] = {en = "Lavaforge Hacker", zh = "熔铸劈斧"},
     ["191627"] = {en = "Fireplume Blouse", zh = "火羽上衣"},
     ["191628"] = {en = "Fireplume Tailwinds", zh = "火羽腿饰"},
@@ -4999,4 +4996,7 @@ ItemNames_27 = {
     ["200780"] = {en = "Dragon Horns", zh = "龙角"},
     ["200781"] = {en = "Rejuvenating Ashes", zh = "复苏灰烬"},
     ["200782"] = {en = "Bejeweled Horseshoes", zh = "珠光马蹄铁"},
+    ["200783"] = {en = "Adorned Ohunan Jess", zh = "带装饰的欧胡纳脚带"},
+    ["200784"] = {en = "Hunting Trophies", zh = "狩猎战利品"},
+    ["200785"] = {en = "Argali Wool Rug", zh = "绒羊毛毯"},
 }

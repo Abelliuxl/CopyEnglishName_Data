@@ -1,4 +1,5 @@
 ItemNames_7 = {
+    ["42183"] = {en = "Pattern: Abyssal Bag", zh = "图样：深渊背包"},
     ["42184"] = {en = "Pattern: Glacial Bag", zh = "图样：冰川背包"},
     ["42185"] = {en = "Pattern: Mysterious Bag", zh = "图样：神秘背包"},
     ["42186"] = {en = "Pattern: Frostweave Bag", zh = "图样：霜纹包"},
@@ -4998,5 +4999,4 @@ ItemNames_7 = {
     ["48161"] = {en = "Malfurion's Mantle of Conquest", zh = "玛法里奥的征服护肩"},
     ["48162"] = {en = "Malfurion's Gloves of Conquest", zh = "玛法里奥的征服手套"},
     ["48163"] = {en = "Malfurion's Gloves of Triumph", zh = "玛法里奥的凯旋手套"},
-    ["48164"] = {en = "Malfurion's Cover of Triumph", zh = "玛法里奥的凯旋头巾"},
 }

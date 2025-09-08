@@ -1,4 +1,5 @@
 ItemNames_8 = {
+    ["48164"] = {en = "Malfurion's Cover of Triumph", zh = "玛法里奥的凯旋头巾"},
     ["48165"] = {en = "Malfurion's Trousers of Triumph", zh = "玛法里奥的凯旋长裤"},
     ["48166"] = {en = "Malfurion's Vestments of Triumph", zh = "玛法里奥的凯旋护胸"},
     ["48167"] = {en = "Malfurion's Mantle of Triumph", zh = "玛法里奥的凯旋护肩"},
@@ -4998,5 +4999,4 @@ ItemNames_8 = {
     ["55831"] = {en = "Headcover of Fog", zh = "雾霭头盔"},
     ["55832"] = {en = "Fallen Snow Shoulderguards", zh = "落雪肩甲"},
     ["55833"] = {en = "Red Sky Pendant", zh = "霞云坠饰"},
-    ["55834"] = {en = "Biting Wind", zh = "凛风"},
 }

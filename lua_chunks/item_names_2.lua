@@ -1,4 +1,5 @@
 ItemNames_2 = {
+    ["8109"] = {en = "Hibernal Cloak", zh = "寒冬披风"},
     ["8110"] = {en = "Hibernal Gloves", zh = "寒冬手套"},
     ["8111"] = {en = "Hibernal Mantle", zh = "寒冬衬肩"},
     ["8112"] = {en = "Hibernal Pants", zh = "寒冬短裤"},
@@ -254,7 +255,7 @@ ItemNames_2 = {
     ["8494"] = {en = "Parrot Cage (Hyacinth Macaw)", zh = "鹦鹉笼（花羽鹦鹉）"},
     ["8495"] = {en = "Parrot Cage (Senegal)", zh = "鹦鹉笼（金翼鹦鹉）"},
     ["8496"] = {en = "Parrot Cage (Cockatiel)", zh = "鹦鹉笼（红尾鹦鹉）"},
-    ["8497"] = {en = "Rabbit Crate (Snowshoe)", zh = "兔笼（黄纹兔）"},
+    ["8497"] = {en = "Rabbit Crate (Snowshoe)", zh = "兔笼（雪兔）"},
     ["8498"] = {en = "Emerald Whelpling", zh = "绿龙宝宝"},
     ["8499"] = {en = "Tiny Crimson Whelpling", zh = "红龙宝宝"},
     ["8500"] = {en = "Great Horned Owl", zh = "棕色猫头鹰"},
@@ -4998,5 +4999,4 @@ ItemNames_2 = {
     ["16113"] = {en = "Manual: Mageweave Bandage", zh = "手册：魔纹绷带"},
     ["16114"] = {en = "Foreman's Blackjack", zh = "工头的木棒"},
     ["16115"] = {en = "Osric's Crate", zh = "奥斯瑞克的箱子"},
-    ["16166"] = {en = "Bean Soup", zh = "豆汤"},
 }

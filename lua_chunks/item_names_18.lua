@@ -1,5 +1,4 @@
 ItemNames_18 = {
-    ["129886"] = {en = "Shard of the Crystal Forest", zh = "水晶森林碎片"},
     ["129888"] = {en = "Undivided Hide", zh = "完整的皮革"},
     ["129889"] = {en = "Castle Breaker's Battleplate", zh = "破城战甲"},
     ["129890"] = {en = "Longstrider's Vest", zh = "远行者外套"},
@@ -4999,4 +4998,5 @@ ItemNames_18 = {
     ["137840"] = {en = "Design: Azsunite Loop", zh = "图鉴：阿苏奈特黄晶指环"},
     ["137841"] = {en = "Design: Deep Amber Pendant", zh = "图鉴：深海琥珀吊坠"},
     ["137842"] = {en = "Design: Skystone Pendant", zh = "图鉴：苍穹石吊坠"},
+    ["137843"] = {en = "Design: Azsunite Pendant", zh = "图鉴：阿苏奈特黄晶吊坠"},
 }
